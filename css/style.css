@@ -1,0 +1,64 @@
+*{
+	margin: 0;
+	padding: 0;
+	border: 0;
+}
+
+header, section{
+	display: inline-block;
+}
+header{
+
+background-image: url('../images/fondo2.png') ;
+background-repeat: no-repeat;
+width: 60%;
+
+height: 800px;
+}
+header img{
+	float: left;
+	margin-top: 20px;
+	margin-left: 15px;
+}
+
+
+#arriba{
+	text-align: left;
+	margin-left: 60px;
+	padding-top: 25px;
+	color: white;
+}
+#medio{
+	
+	margin-top: 200px;
+	margin-left: 150px;
+	font-size: 2em;
+	color: white;
+}
+
+.uno{
+	background: #BCAE62;
+	float: right;
+	position: absolute;
+	width: 40%;
+	height: 400px;
+}
+.dos{
+	background: #A99D5A;
+	float: right;
+	position: absolute;
+	width: 40%;
+	margin-top: 400px;
+	height: 400px;
+}
+article{
+	text-align: center;
+	margin-top: 150px;
+
+}
+.colortxt{
+	color: white;
+	font-size: 22px;
+}
+
+
